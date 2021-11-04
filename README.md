@@ -16,3 +16,10 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+https://marketplace.visualstudio.com/items?itemName=hiro-sun.vscode-emacs
+https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
